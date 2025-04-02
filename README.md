@@ -1,65 +1,48 @@
-<h1 align="left">Hi 👋! I'm AbdeLmajid Moumni</h1>
-<h3 align="left">A passionate Web Developer from Morocco</h3>
+## 👋 Hello, I'm AbdeLmajid Moumni!
 
-###
+🚀 Passionate Web Developer from Morocco, crafting modern web experiences with React, Laravel, and more.
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdeLmajidMoumni&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdeLmajidMoumni&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&exclude_repo=github-readme-stats" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdeLmajidMoumni&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdeLmajidMoumni&layout=compact&langs_count=6&theme=radical" height="150" alt="Top Languages" />
 </div>
 
-###
+---
 
 ### 🛠️ Tech Stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="TailwindCSS" />
 </div>
 
-###
+---
 
-### 🌐 Connect With Me
+### 🌍 Connect with Me
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.instagram.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="https://twitter.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/yourprofile)
 
-###
+---
 
-### 🐍 GitHub Activity Snake
+### 🔥 Latest Projects
+
+- 🎬 **Movie Finder** – React & Laravel-powered API-first movie app
+- 💼 **JobnMe** – A job board connecting talent worldwide
+
+---
+
+### 🐍 GitHub Activity
 
 ![Snake animation](https://github.com/AbdeLmajidMoumni/AbdeLmajidMoumni/blob/output/github-contribution-grid-snake.svg)
 
-###
-
-### 🔥 Recent Projects
-<!-- You can add your pinned repositories here -->
+---
